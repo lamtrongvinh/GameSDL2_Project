@@ -6,7 +6,7 @@
  - Về máy cá nhân, mở terminal lên di chuyển đến nơi cần chứa game
  - Gõ câu lệnh : git clone https://github.com/lamtrongvinh/GameSDL2_Project.git
  ==> Thư mục chứa game đã được tải về máy.
- - Mở Visual Studio, CodeBlock, VSCODE đã cài đặt thư viện SDL2 (SDL_mixer, SDL_ttf, SDL_image) và có thể chơi thử game.
+ - Mở Visual Studio, CodeBlock, VSCODE đã cài đặt thư viện SDL2 (SDL_mixer, SDL_ttf, SDL_image) và add folder game vừa tải về là có thể chơi thử game.
 
 2. Mô tả chung về trò chơi
  - Người chơi sẽ nhập vai vào một nhân vật chiến binh , được giao nhiệm vụ đi đến hết bản đồ và thu thập kim cương.
