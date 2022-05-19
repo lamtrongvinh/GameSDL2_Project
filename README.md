@@ -1,5 +1,8 @@
 # GameSDL2_Project : KILL MONSTER 1.0
 
+- Họ tên : Lâm Trọng Vinh
+- MSV : 21020800
+
 1. Hướng dẫn cài đặt và sử dụng
  - Truy cập vào đường dẫn : https://github.com/lamtrongvinh/GameSDL2_Project
  - Vào mục "Code" -> Nhấn coppy đường dẫn (VD: https://github.com/lamtrongvinh/GameSDL2_Project.git )
