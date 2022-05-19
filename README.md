@@ -33,7 +33,7 @@
  - Khi đến cuối map sẽ có âm thanh you_win.
  - Khi thất bại và chiến thắng sẽ có 2 lựa chọn đó là "Play Again" hoặc "Quit".
 
- - Link youtube  : 
+ - Link youtube  : https://youtu.be/iJyQtw6UE_o
 
  4. Các kỹ thuật lập trình được sử dụng trong chương trình
  - Sử dụng các class, struct để quản lí đối tượng.
